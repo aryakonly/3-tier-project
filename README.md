@@ -1,4 +1,4 @@
-# 🚀 AWS 3-Tier Architecture Project  
+# AWS 3-Tier Architecture Project  
 **Tomcat + MySQL (RDS) | Nginx | AWS VPC**
 
 ---
